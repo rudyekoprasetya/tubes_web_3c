@@ -11,7 +11,7 @@
     <title>Tubes Website kelas 3C UNP</title>
   </head>
   <body>
-    <h1>Tubes Website kelas 3C UNP</h1>
+    <h1><?php echo "Tubes Website kelas 3C UNP";?></h1>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
