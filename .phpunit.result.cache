@@ -1,0 +1,1 @@
+{"version":2,"defects":{"FileTypeTest::test_php_files_contain_php_code":7},"times":{"FileTypeTest::test_files_exist":0.009,"FileTypeTest::test_php_files_contain_php_code":0.001,"FileTypeTest::test_html_files_contain_html_tags":0.001}}
